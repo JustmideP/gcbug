@@ -34,7 +34,7 @@ const Styles = (text, style = 1) => {
 };
 
 global.namaowner = "GALAXY"
-global.owner = "628561160742"
+global.owner = "2348024322741"
 global.namabot = "Galaxy-V10"
 global.botname = "Galaxy-V10"
 global.simbol = "⌑"
